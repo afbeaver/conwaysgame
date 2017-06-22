@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-          <h2>Conway's Game of Life</h2>
+          <h2>Conway&#39;s Game of Life</h2>
           <a className="white" href="https://github.com/afbeaver/conwaysgame">click here for more info and source code</a>
         </div>
         <div className="board">
