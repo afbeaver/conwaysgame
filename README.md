@@ -1,7 +1,7 @@
 Conway's 'Game of Life' in ReactJS
 
 I developed this app to get familar with ReactJS.
-
+See it here: http://conwaysgol.azurewebsites.net
 
 Conway's Game of Life is a cellular automation by the British mathematician John Horton Conway in 1970.
 
